@@ -1,2 +1,2 @@
 # Ryan Drewery
-# New to GitHub customer success team
+# New to GitHub Customer Success Team
