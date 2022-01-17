@@ -1,1 +1,1 @@
-[Liverpool Football Club (www.liverpoolfc.com)
+[Liverpool Football Club](www.liverpoolfc.com)
