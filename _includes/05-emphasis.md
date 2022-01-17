@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Welcome to my page #
+_learning markdown in GitHub_
+
+<h1> I've not used GitHub properly before
